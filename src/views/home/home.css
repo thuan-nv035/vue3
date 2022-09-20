@@ -1,0 +1,18 @@
+.test {
+    background-color: aquamarine;
+}
+
+.drop-zone {
+    width: 50%;
+    margin: 50px auto;
+    background-color: #ecf0f1;
+    padding: 10px;
+    min-height: 10px;
+}
+
+.drop-el {
+    background-color: aqua;
+    color: aliceblue;
+    padding: 5px;
+    margin-bottom: 10px;
+}
